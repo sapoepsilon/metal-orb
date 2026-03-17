@@ -1,5 +1,4 @@
 import SwiftUI
-import MetalOrb
 
 struct ContentView: View {
     @StateObject private var audioManager = AudioInputManager()
